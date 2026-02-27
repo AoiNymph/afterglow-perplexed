@@ -107,3 +107,4 @@ Spinner: Drink 1 if your master VRChat volume is not on 100%
 Spinner: Take 1 if you have played VRChat for more than 4 hours today
 Spinner: Give 1 to the player who spoke most recently before this spin
 Group: Drink 2 if you haven't drank water in the past hour
+Drink 10x if your name is xfearlessx
