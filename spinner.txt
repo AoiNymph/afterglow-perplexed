@@ -5,7 +5,7 @@ Spinner: Drink 2 if your microphone is currently muted
 Group: Drink 2 if you have Full Body Tracking
 Group: Drink 1 if you are playing on Desktop mode
 Spinner: Drink 2 if your framerate is currently below 40 FPS
-Group: Drink 2 if anyone claims to have phantom sense
+Group: Drink 1 for each consonant in your name
 Spinner: Drink 1 if your avatar has grab-able ears or a tail
 Spinner: Give 1 drink to the player with the brightest emissions
 Group: Drink 2 if your VRChat username contains numbers
@@ -74,7 +74,7 @@ Group: Drink 1 if you are using individual finger tracking
 Spinner: Drink 2 if you have over 1000 hours in VR
 Group: Drink 1 if you are currently playing as a mute
 Spinner: Give 3 if you have an active desktop overlay open
-Spinner: Drink 2 if you have a custom nameplate icon
+Spinner: Drink 2 if you have a VRC+ icon
 Group: Drink 2 if your avatar has floating particles
 Spinner: Drink 1 if your VR boundary has popped up in the last hour
 Group: Drink 3 if your avatar is non-human
@@ -107,4 +107,13 @@ Spinner: Drink 1 if your master VRChat volume is not on 100%
 Spinner: Take 1 if you have played VRChat for more than 4 hours today
 Spinner: Give 1 to the player who spoke most recently before this spin
 Group: Drink 2 if you haven't drank water in the past hour
+Spinner: Choose a color! Everyone with it on their avi drinks 2
+Group: Drink 2 if you are sitting down. Take an extra 2 if you are doing that in FBT
+Group: Drink 1 for each avatar currently hidden by you at the table
+Spinner: Give 2 if you have this world favourited
+Group: Take a shot for every avatar with a tail at the table
+Spinner: Take 3 if your headset is in wireless mode
+Spinner: Give 3 if you have ever bought an avatar from Gumroad or Booth
+Group: Drink 1 if your avatar is wearing gloves
+Group: Drink 3 if you have the world audio muted
 Drink 10x if your name is xfearlessx
