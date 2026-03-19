@@ -12,11 +12,11 @@ Group: Drink 2 if your VRChat username contains numbers
 Spinner: Drink 2 if your controllers currently have stick drift
 Spinner: Give 2 drinks if your avatar currently has AudioLink enabled
 Group: Drink 3 if you have been to a public lobby today
-Spinner: Drink 1 if you are currently sitting or laying on your real-life floor
+Spinner: Drink 1 if you are currently sitting or laying
 Group: Drink 2 if any of your VR trackers or controllers are below 20% battery
 Spinner: Drink 1 for every prop or toggle you can activate on your avatar right now (max 3)
 Group: Take 2 if you are the tallest avi in the world
-Spinner: Give 2 drinks if you use a voice changer or a soundboard
+Spinner: Give 2 drinks if you have ever used a voice changer or a soundboard
 Spinner: Drink 2 if your game has crashed at least once today
 Group: Drink 1 if you are a Trusted User
 Spinner: Drink 3 if you are hiding your true Trust Rank
@@ -83,7 +83,7 @@ Spinner: Give 2 if you dropped a world portal this session
 Spinner: Drink 2 if your physical play space is smaller than your virtual wingspan
 Spinner: Drink 3 if you have eye tracking enabled
 Group: Drink 2 if your avatar is wearing a hat or headwear
-Spinner: Drink 1 if you have your Discord linked in your VRChat bio
+Spinner: Drink 1 if you have your Discord username anywhere on your VRChat profile
 Group: Drink 1 if you use smooth locomotion instead of teleporting
 Spinner: Drink 2 if you have cloned a public avatar today
 Spinner: Give 1 if you have taken a photo ingame today
