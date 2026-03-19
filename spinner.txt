@@ -16,7 +16,7 @@ Spinner: Drink 1 if you are currently sitting or laying
 Group: Drink 2 if any of your VR trackers or controllers are below 20% battery
 Spinner: Drink 1 for every prop or toggle you can activate on your avatar right now (max 3)
 Group: Take 2 if you are the tallest avi in the world
-Spinner: Give 2 drinks if you have ever used a voice changer or a soundboard
+Spinner: Give 2 drinks if you have ever used a voice changer or a soundboard in VR
 Spinner: Drink 2 if your game has crashed at least once today
 Group: Drink 1 if you are a Trusted User
 Spinner: Drink 3 if you are hiding your true Trust Rank
